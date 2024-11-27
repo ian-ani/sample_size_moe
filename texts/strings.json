@@ -1,0 +1,14 @@
+{
+	"text": {
+	"title": "Calculate sample size and margin of error",
+	"enter_values_sample": "Enter your values below...",
+	"get_sample_size": "Calculate sample size",
+	"ask_sample_size": "Sample size",
+	"ask_population_size": "Population size",
+	"ask_confidence": "Confidence level",
+	"ask_margin_error": "Margin of error",
+	"get_margin_error": "Calculate margin of error",
+	"exit": "Exit",
+	"checking_message": "Are you sure?"
+	}
+}
