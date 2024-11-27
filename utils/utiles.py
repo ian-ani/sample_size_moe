@@ -41,6 +41,3 @@ def get_entry_text(window):
 
 def msg_box(title, description):
     messagebox.showinfo(title, description)
-
-
-# cuando anada las constantes, cambiar bg="numeritos" por bg=BACKGROUND_COLOR
